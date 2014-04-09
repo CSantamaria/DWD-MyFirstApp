@@ -1,0 +1,13 @@
+<h1><%= name %></h1>
+
+<h2>Location</h2>
+<ul>
+<% City.forEach(function(city){ %>
+  <li><%= Fruits and Vegetables por toda la región %></li>
+<% }) %>
+</ul>
+
+<h2>Input Type</h2>
+<p><%= input %></p>
+
+<a href="/cities">Return to the main page</a>
